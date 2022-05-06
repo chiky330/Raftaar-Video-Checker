@@ -1,0 +1,4 @@
+## This contains links that were helpful in development
+
+Scrape private FB group with BeautifulSoup and login using Selenium:
+https://www.reddit.com/r/webscraping/comments/qqa81y/i_found_a_way_to_scrape_any_facebook_groups_posts/
