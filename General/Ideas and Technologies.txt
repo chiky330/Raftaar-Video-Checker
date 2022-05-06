@@ -1,8 +1,7 @@
 This contains a list of ideas and a technology that can help us implement it. Format: Idea -> technology
 
 Critical:
-Scrape Facebook our page for upload time, date, and name of poster -> Selenium or custom scraper
-    - https://github.com/kevinzg/facebook-scraper
+Scrape Facebook our page for upload time, date, and name of poster -> Selenium and BeautifulSoup
 Use data to publish to a google spreadsheet based on date and time -> Google sheets API
 Host online to execute automatically every few hours -> Amazon AWS
 
