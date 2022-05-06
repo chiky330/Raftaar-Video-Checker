@@ -5,10 +5,14 @@ Setup instructions to run follow.
 ## Python Virtual Environment
 This is assuming you have Python 3.4 and above. 
 To setup a virtual environment, navigate to local repo through terminal and run:
-```python3 -m venv env```
+```
+python3 -m venv env
+```
 
 To activate virtual environment:
-```.\env\Scripts\activate```
+```
+.\env\Scripts\activate
+```
 
 It's good practice to deactivate the environment once you are finished with the project. To do so, simply type:
 ```deactivate```
