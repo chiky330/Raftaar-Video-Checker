@@ -1,9 +1,9 @@
-### About
+# About
 This is just a fun side project and hope to also learn along the way :)
 
 ## Setup
 
-# Python Virtual Environment
+### Python Virtual Environment
 This is assuming you have Python 3.4 and above. 
 To setup a virtual environment, navigate to local repo through terminal and run:
 ```python3 -m venv env```
@@ -16,7 +16,7 @@ It's good practice to deactivate the environment once you are finished with the 
 
 Find more detailed insturctions [here](https://python.land/virtual-environments/virtualenv)
 
-# Packages
+### Packages
 For development, install packages through pip by running:
 ```
 pip install selenium
