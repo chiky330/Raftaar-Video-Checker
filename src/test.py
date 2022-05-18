@@ -16,7 +16,7 @@ from time import sleep
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get("https://www.facebook.com")
 #driver.maximize_window()
-sleep(2)
+sleep(3)
 
 #accept cookies
 #cookies = WebDriverWait(driver, 30).until(EC.element_to_be_clickable((By.XPATH, '//button[@class="_42ft _4jy0 _9o-t _4jy3 _4jy1 selected _51sy"]'))).click()
