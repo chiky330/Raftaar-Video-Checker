@@ -23,11 +23,13 @@ sleep(3)
 
 # Insert your own login info for now
 
+# Sending login info
 email=driver.find_element_by_id("email")
 email.send_keys("INSERT USERNAME") 
 password=driver.find_element_by_id("pass")
 password.send_keys("GET PASSWORD")
 sleep(1)
+
 login=driver.find_element_by_name("login")
 login.click()
 sleep(2)
